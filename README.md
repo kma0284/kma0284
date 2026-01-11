@@ -1,5 +1,5 @@
  Hi there 👋
-My name is Katelynn Anderson, I reside in central Florida, and i am a mechanic learing to be a software engineer!
+My name is Katelynn Anderson, I reside in central Florida, and i am a mechanic learning to be a software engineer!
 
 
 
